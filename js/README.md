@@ -30,7 +30,7 @@
 1. What are the pros and cons of immutability?
 1. How can you achieve immutability in your own code?
 1. Explain how does Object.freeze() works?
-  1. https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Object/freeze
+ - https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Object/freeze
 1. Explain the difference between synchronous and asynchronous functions.
 1. What is event loop?
 1. What is the difference between call stack and task queue?
